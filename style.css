@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+
+p{
+  font-family: 'Inter';
+  font-size: 14px;
+  line-height:20px;
+  color:#d2d2d2
+}
