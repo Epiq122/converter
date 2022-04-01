@@ -11,3 +11,9 @@ p{
   line-height:20px;
   color:#d2d2d2
 }
+
+header{
+  width:550px;
+  height:260px;
+ background: linear-gradient(246.26deg, #05795A 0%, #10B680 100%);
+}
